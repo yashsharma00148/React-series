@@ -1,0 +1,9 @@
+h1{
+  text-align: center;
+}
+.addons{
+  margin-top: 50px;
+  width: 300px;
+  display: flex;
+  gap: 20px;
+}
